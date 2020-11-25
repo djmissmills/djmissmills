@@ -29,6 +29,10 @@ I am an aspiring full stack web developer.
  Reach out to me on :point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/millslorraine/)](https://www.linkedin.com/in/millslorraine/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-000?style=flat-square&logo=Instagram&logoColor=white&&link=https://www.instagram.com/miss.mills.onwheels/)](https://www.instagram.com/miss.mills.onwheels/)
 
+### ✨ Visitors 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=djmissmills" alt="djmissmills" /> </p>
+
 
 <!--
 **V2dha/V2dha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
