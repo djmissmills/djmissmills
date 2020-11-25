@@ -12,7 +12,7 @@
 
 <br />
 <br />
-<br />
+
 
 I am an aspiring full stack web developer. 
 - 🎓 &nbsp; Studying Full stack technologies @ East London Technical
