@@ -41,9 +41,8 @@ I am an aspiring full stack web developer.
  
 
 
-
-### ✨ Visitors 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djmissmills" alt="djmissmills" /> </p>
+
 
 
 <!--
