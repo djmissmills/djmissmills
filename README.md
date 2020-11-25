@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 
 ![Lorraine's github stats](https://github-readme-stats.vercel.app/api?username=djmissmills&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)
 
-⭐️ From V2dha (https://github.com/djmissmills)
+⭐️ From Lorraine (https://github.com/djmissmills)
