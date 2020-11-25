@@ -1,4 +1,5 @@
-### HELLO from Mills HQ :wave: <a href="https://www.linkedin.com/in/millslorraine/">
+### HELLO from Mills HQ :wave: 
+<a href="https://www.linkedin.com/in/millslorraine/">
   <img align="left" alt="Lorraine's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/djmissmills">
@@ -9,6 +10,8 @@
   <img align="left" alt="Lorraine's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<br />
+<br />
 <br />
 
 I am an aspiring full stack web developer. 
