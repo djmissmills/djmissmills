@@ -15,10 +15,10 @@ I am an aspiring full stack web developer.
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  - ⚙️ &nbsp;
+- ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  - 🖥 &nbsp;
+- 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Vividha's github stats](https://github-readme-stats.vercel.app/api?username=djmissmills&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)
+![Lorraine's github stats](https://github-readme-stats.vercel.app/api?username=djmissmills&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)
 
 ⭐️ From V2dha (https://github.com/djmissmills)
